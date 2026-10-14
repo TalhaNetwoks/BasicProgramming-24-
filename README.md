@@ -83,4 +83,23 @@ public class Case1Study24 {
         ---(You have to pay the more amount of : -160600.0Rp)---
 
 ----
+ #### 2.4 Experiment 3: Case Study 2 – Nested Selection
+
+ The Student Affairs Division of Politeknik Negeri Malang has issued a letter regarding the
+verification of complete achievement documents for students in Activity Year 2026, Stage I. Based
+on the requirements in that letter, the institution's award funds are given to students under the
+following conditions:
+a. For competitions organized by BELMAWA, BAKORMA, or independently (Mandiri), award
+funds are given only to students who win 1st, 2nd, or 3rd place. Honorable Mention winners or
+regular participants do not receive award funds.
+b. For the Student Creativity Program (PKM), award funds are given to teams whose proposals
+are approved for funding.
+c. Activities outside the two conditions above (Other) do not receive award funds.
+In addition, students who meet condition a or b are required to upload 4 complete documents
+to SIAKAD: the Assignment Letter, Certificate, Activity Photo, and Activity Poster. If fewer than 4
+documents are uploaded, the data is considered incomplete and no award funds are given.
+Write a program to help the Student Affairs Admin check the status of a student's award funds.
+The program should only ask for the data needed based on the type of activity, then display the award
+fund status along with the reason. If the documents are incomplete, also display how many documents
+are still missing. Solve this using nested selection (nested IF) with a maximum depth of 3 levels. Use
 
