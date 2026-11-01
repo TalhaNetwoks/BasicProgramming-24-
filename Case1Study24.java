@@ -42,6 +42,7 @@ public class Case1Study24 {
             shortfall = totalPayabale - amountPaid;
             System.out.println("\t---(You have to pay the more amount of : -"+ shortfall + "Rp)---");
          }
+         
 
          input.close();
     }
