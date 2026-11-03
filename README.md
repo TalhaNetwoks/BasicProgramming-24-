@@ -195,3 +195,14 @@ public class Case2Study24 {
     Activity Type : bakorma
     Eligibility Status: Eligible
     Reason: The student has submitted sufficient documents.
+
+
+### output tested:
+
+Test Results for Case Study 2 by Athaaullah dhiyaaul haq
+| No | Type | Documents | Rank/Funding | Output | Correct? |
+|----|------|-----------|--------------|---------|----------|
+| 1 | BAKORMA | 3 | 1 | Eligable The student has submitted sufficient documents.| No |
+|2|Mandiri|4|0| Not eligible, The student is missing 4 documents for eligibility.|Yes|
+|3|PKM|4|1|Eligible The student has submitted sufficient documents.|Yes|
+|4|Other|4|0|Not eligible The student is missing 4 documents for eligibility.|Yes|
